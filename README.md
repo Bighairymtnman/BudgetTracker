@@ -7,7 +7,7 @@ An expense tracking application built with React Native and Expo. Track your spe
 ## Download
 
 ### Android
-[Download Latest Release](https://github.com/yourusername/budget-tracker-app/releases/latest)
+[Download Latest Release](https://github.com/yourusername/BudgetTracker/releases/latest)
 
 ### iOS
 Coming soon
@@ -33,25 +33,25 @@ Coming soon
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/1.jpg)
+<img src="./screenshots/1.jpg" alt="Screenshot 1" width="300">
 
-![Screenshot 2](./screenshots/2.jpg)
+<img src="./screenshots/2.jpg" alt="Screenshot 2" width="300">
 
-![Screenshot 3](./screenshots/3.jpg)
+<img src="./screenshots/3.jpg" alt="Screenshot 3" width="300">
 
-![Screenshot 4](./screenshots/4.jpg)
+<img src="./screenshots/4.jpg" alt="Screenshot 4" width="300">
 
-![Screenshot 5](./screenshots/5.jpg)
+<img src="./screenshots/5.jpg" alt="Screenshot 5" width="300">
 
-![Screenshot 6](./screenshots/6.jpg)
+<img src="./screenshots/6.jpg" alt="Screenshot 6" width="300">
 
-![Screenshot 7](./screenshots/7.jpg)
+<img src="./screenshots/7.jpg" alt="Screenshot 7" width="300">
 
-![Screenshot 8](./screenshots/8.jpg)
+<img src="./screenshots/8.jpg" alt="Screenshot 8" width="300">
 
-![Screenshot 9](./screenshots/9.jpg)
+<img src="./screenshots/9.jpg" alt="Screenshot 9" width="300">
 
-![Screenshot 10](./screenshots/10.jpg)
+<img src="./screenshots/10.jpg" alt="Screenshot 10" width="300">
 
 ## System Requirements
 
@@ -81,4 +81,3 @@ If you encounter any issues or have questions, please create an issue in this re
 
 Copyright 2025. All rights reserved.
 This software is provided for personal use only.
-
