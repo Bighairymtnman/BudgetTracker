@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<img src="./screenshots/icon.png" alt="Budget Tracker Icon" width="100" height="100">
+<img src="./screenshots/icon.png" alt="Budget Tracker Icon" width="200" height="200">
 
 An expense tracking application built with React Native and Expo. Track your spending, set budgets, and visualize your financial data with interactive charts.
 
