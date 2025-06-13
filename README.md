@@ -1,4 +1,4 @@
-# Budget Tracker
+# BudgetTracker
 
 <img src="./screenshots/icon.png" alt="Budget Tracker Icon" width="200" height="200">
 
