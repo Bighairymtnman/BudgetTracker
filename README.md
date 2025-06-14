@@ -7,7 +7,7 @@ An expense tracking mobile application built with React Native and Expo. Track y
 ## Download
 
 ### Android
-[Download Latest Release](https://github.com/yourusername/BudgetTracker/releases/latest)
+[Download Latest Release]([https://github.com/yourusername/BudgetTracker/releases/latest](https://github.com/Bighairymtnman/BudgetTracker/releases/tag/v1.0.0))
 
 ### iOS
 Coming soon
