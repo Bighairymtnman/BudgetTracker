@@ -47,11 +47,8 @@ Coming soon
 
 <img src="./screenshots/7.jpg" alt="Screenshot 7" width="300">
 
-<img src="./screenshots/8.jpg" alt="Screenshot 8" width="300">
-
 <img src="./screenshots/9.jpg" alt="Screenshot 9" width="300">
 
-<img src="./screenshots/10.jpg" alt="Screenshot 10" width="300">
 
 ## System Requirements
 
