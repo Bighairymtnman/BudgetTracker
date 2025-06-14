@@ -39,8 +39,6 @@ Coming soon
 
 <img src="./screenshots/3.jpg" alt="Screenshot 3" width="300">
 
-<img src="./screenshots/4.jpg" alt="Screenshot 4" width="300">
-
 <img src="./screenshots/5.jpg" alt="Screenshot 5" width="300">
 
 <img src="./screenshots/6.jpg" alt="Screenshot 6" width="300">
